@@ -1,3 +1,5 @@
+[![MasterHead](https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/08/what-is-coding.jpg)](https://rishavchanda.io)
+
 # 👩‍💻 Hi there 👋, I'm Revati!
 
 Welcome to my coding journey! I'm a passionate Python developer and data analyst based in India.
