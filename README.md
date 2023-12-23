@@ -1,4 +1,4 @@
-[![MasterHead](https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/08/what-is-coding.jpg)](https://rishavchanda.io)
+![MasterHead](https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/08/what-is-coding.jpg)
 
 # 👩‍💻 Hi there 👋, I'm Revati!
 
