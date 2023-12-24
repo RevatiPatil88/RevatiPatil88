@@ -1,8 +1,8 @@
 ![MasterHead](https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/08/what-is-coding.jpg)
-
-# 👩‍💻 Hi there 👋, I'm Revati!
-
-Welcome to my coding journey! I'm a passionate Python developer and data analyst based in India.
+<h1 align="center">👩‍💻 Hi there 👋, I'm  I'm Revati</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">Welcome to my coding journey! I'm a passionate Python developer and data analyst.</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 ## 🌱 Currently Exploring
 
